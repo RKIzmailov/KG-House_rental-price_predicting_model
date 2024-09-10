@@ -1,4 +1,4 @@
-# Rental Price Prediction for Properties in Kyrgyzstan
+# Rental Price Prediction for Properties
 This project aims to predict rental prices for properties in Kyrgyzstan using machine learning techniques. The project involves several steps, including web scraping, data preprocessing, model training, hyperparameter optimization, and model ensembling.
 
 ## Project Overview
